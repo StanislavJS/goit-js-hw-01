@@ -31,3 +31,4 @@ yarn.lock
 # Temporary files
 *.tmp
 .prettiercc
+.DS_Store
